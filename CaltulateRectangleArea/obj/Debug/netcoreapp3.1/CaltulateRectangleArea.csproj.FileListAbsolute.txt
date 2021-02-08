@@ -1,0 +1,12 @@
+C:\Users\rchaushev001\source\repos\Methods - Lab\CaltulateRectangleArea\bin\Debug\netcoreapp3.1\CaltulateRectangleArea.exe
+C:\Users\rchaushev001\source\repos\Methods - Lab\CaltulateRectangleArea\bin\Debug\netcoreapp3.1\CaltulateRectangleArea.deps.json
+C:\Users\rchaushev001\source\repos\Methods - Lab\CaltulateRectangleArea\bin\Debug\netcoreapp3.1\CaltulateRectangleArea.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\Methods - Lab\CaltulateRectangleArea\bin\Debug\netcoreapp3.1\CaltulateRectangleArea.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\Methods - Lab\CaltulateRectangleArea\bin\Debug\netcoreapp3.1\CaltulateRectangleArea.dll
+C:\Users\rchaushev001\source\repos\Methods - Lab\CaltulateRectangleArea\bin\Debug\netcoreapp3.1\CaltulateRectangleArea.pdb
+C:\Users\rchaushev001\source\repos\Methods - Lab\CaltulateRectangleArea\obj\Debug\netcoreapp3.1\CaltulateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\Methods - Lab\CaltulateRectangleArea\obj\Debug\netcoreapp3.1\CaltulateRectangleArea.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\Methods - Lab\CaltulateRectangleArea\obj\Debug\netcoreapp3.1\CaltulateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\Methods - Lab\CaltulateRectangleArea\obj\Debug\netcoreapp3.1\CaltulateRectangleArea.dll
+C:\Users\rchaushev001\source\repos\Methods - Lab\CaltulateRectangleArea\obj\Debug\netcoreapp3.1\CaltulateRectangleArea.pdb
+C:\Users\rchaushev001\source\repos\Methods - Lab\CaltulateRectangleArea\obj\Debug\netcoreapp3.1\CaltulateRectangleArea.genruntimeconfig.cache
