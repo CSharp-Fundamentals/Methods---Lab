@@ -1,0 +1,13 @@
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\bin\Debug\netcoreapp3.1\MultiplyEcensByOdds.exe
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\bin\Debug\netcoreapp3.1\MultiplyEcensByOdds.deps.json
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\bin\Debug\netcoreapp3.1\MultiplyEcensByOdds.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\bin\Debug\netcoreapp3.1\MultiplyEcensByOdds.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\bin\Debug\netcoreapp3.1\MultiplyEcensByOdds.dll
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\bin\Debug\netcoreapp3.1\MultiplyEcensByOdds.pdb
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\obj\Debug\netcoreapp3.1\MultiplyEcensByOdds.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\obj\Debug\netcoreapp3.1\MultiplyEcensByOdds.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\obj\Debug\netcoreapp3.1\MultiplyEcensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\obj\Debug\netcoreapp3.1\MultiplyEcensByOdds.dll
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\obj\Debug\netcoreapp3.1\MultiplyEcensByOdds.pdb
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\obj\Debug\netcoreapp3.1\MultiplyEcensByOdds.genruntimeconfig.cache
+C:\Users\rchaushev001\source\repos\Methods - Lab\MultiplyEcensByOdds\obj\Debug\netcoreapp3.1\MultiplyEcensByOdds.csprojAssemblyReference.cache
